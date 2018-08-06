@@ -29,8 +29,12 @@ npm start
 ```
 
 install nodemon to autostart when source is update.
+```
+--
+```
 
 Be sure to use save to update the package.json when install
 ```
 npm install --save --save-dev <package>
 ```
+

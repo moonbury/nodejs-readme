@@ -1,4 +1,4 @@
-# Common nodejs commands (updated)
+# Common nodejs commands
 
 Install nodejs, if other version, change the version number.
 ```

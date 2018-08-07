@@ -1,4 +1,4 @@
-# Common nodejs commands
+# Common nodejs commands (updated)
 
 Install nodejs, if other version, change the version number.
 ```
@@ -37,4 +37,3 @@ Be sure to use save to update the package.json when install
 ```
 npm install --save --save-dev <package>
 ```
-
